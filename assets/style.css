@@ -38,10 +38,13 @@ nav {
   margin-right: 20px;
 }
 
-h1 {
+.home_page {
   display: flex;
   flex-direction: column;
   padding-left: 20px;
+}
+
+h1 {
   font-family: var(--ff-headings);
   font-style: normal;
   font-weight: 400;
@@ -51,9 +54,6 @@ h1 {
 }
 
 .intro_para {
-  display: flex;
-  flex-direction: column;
-  padding-left: 20px;
   font-weight: 400;
   font-style: normal;
   color: #1a2236;
@@ -92,4 +92,5 @@ h1 {
   height: 20vh;
   background: url(./icons/image_geometry_2.svg) no-repeat;
   background-size: cover;
+  margin-top: 30px;
 }
