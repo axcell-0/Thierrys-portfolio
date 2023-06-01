@@ -94,3 +94,120 @@ h1 {
   background-size: cover;
   margin-top: 30px;
 }
+
+.project-section-container {
+  display: flex;
+  flex-direction: column;
+}
+
+h2 {
+  left: 16px;
+  font-family: 'Playfair Display', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  color: #1a2236;
+  margin: 39px 16px;
+}
+
+.rectangle_21 img {
+  width: 100%;
+}
+
+.rectangle_22 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  background: #1a2236;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.project-name {
+  align-items: center;
+  font-family: 'Poppins', sans-serif;
+  font-size: 26px;
+  color: #fff;
+}
+
+.project-languages {
+  display: flex;
+  gap: 1rem;
+}
+
+.language-css {
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  line-height: 80%;
+  background: #98dede;
+  border: solid 1px;
+  padding: 5px 5px 5px 5px;
+  list-style: none;
+}
+
+.project-button {
+  width: 178px;
+  height: 44px;
+  border: 1px solid #fff;
+  background-color: #1a2236;
+  color: #fff;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.about-container {
+  display: flex;
+  flex-direction: column;
+  padding-left: 20px;
+  padding-top: 56px;
+  padding-bottom: 20px;
+  gap: 20px;
+}
+
+.about {
+  font-family: 'Playfair Display', sans-serif;
+  font-style: normal;
+  font-size: 50px;
+  line-height: 100%;
+  color: #1a2236;
+}
+
+.my-cv {
+  font-style: normal;
+  font-size: 25px;
+  line-height: 24px;
+  color: #fff;
+}
+
+.rectangle_19 {
+  margin-right: 16px;
+  background: #1a2236;
+  text-align: center;
+  padding: 14px;
+  border: solid 1px;
+}
+
+.skill-container {
+  color: #fff;
+  padding: 50px;
+  background-repeat: no-repeat;
+  background-position: right bottom;
+}
+
+.bg-blue {
+  background-color: #1c528a;
+  background-image: url(./icons/hash.svg);
+}
+
+.bg-red {
+  background-color: #e2505c;
+  background-image: url(./icons/rectangle.svg);
+}
+
+.bg-yellow {
+  background-color: #febe52;
+  background-image: url(./icons/lamp.svg);
+}
