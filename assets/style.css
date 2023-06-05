@@ -97,8 +97,8 @@ h1 {
 }
 
 .project-section-container {
-  display: flex;
-  flex-direction: column;
+  display: block;
+  
 }
 
 h2 {
@@ -117,13 +117,13 @@ h2 {
 }
 
 .rectangle_22 {
-  display: flex;
-  flex-direction: column;
   gap: 20px;
   background: #1a2236;
   padding-left: 20px;
   padding-top: 20px;
-  padding-bottom: 20px;
+  padding-bottom: 50px;
+  margin-top: 10px;
+  height: max-content;
 }
 
 .project-name {
@@ -155,10 +155,8 @@ h2 {
   background-color: #1a2236;
   color: #fff;
   text-align: center;
-  display: flex;
-  align-items: center;
-  justify-content: space-around;
-  float: right;
+  float: left;
+  margin-top: 5px;
 }
 
 .about-container {
