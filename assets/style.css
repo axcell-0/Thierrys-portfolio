@@ -235,3 +235,24 @@ h2 {
   font-size: 18px;
   font-weight: 600;
 }
+
+h4 {
+  left: 16px;
+  font-family: 'Playfair Display', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  color: #1a2236;
+  margin: 15px 10px;
+}
+
+.get-paragraph {
+  left: 16px;
+  font-family: 'Playfair Display', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  color: #1a2236;
+  margin: 15px 10px;
+}
+
