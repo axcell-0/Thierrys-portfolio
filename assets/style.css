@@ -89,12 +89,12 @@ h1 {
 }
 
 .Start-collaboration:hover {
-  background-color: #e5e5e5;
+  background-color: #fff;
   color: #1a2236;
 }
 
 .Start-collaboration:-moz-suppressed {
-  background-color: #e5e5e5;
+  background-color: #fff;
   color: #1a2236;
 }
 
@@ -174,13 +174,14 @@ h2 {
 }
 
 .project-button:hover {
-  background-color: #e5e5e5;
+  background-color: #fff;
   color: #1a2236;
 }
 
 .project-button:-moz-suppressed {
-  background-color: #e5e5e5;
+  background-color: #fff;
   color: #1a2236;
+  border: 0vw;
 }
 
 .about-container {
@@ -216,12 +217,12 @@ h2 {
 }
 
 .rectangle_19:hover {
-  background-color: #e5e5e5;
+  background-color: #fff;
   color: #1a2236;
 }
 
 .rectangle_19:-moz-suppressed {
-  background-color: #e5e5e5;
+  background-color: #fff;
   color: #1a2236;
 }
 
