@@ -88,11 +88,25 @@ h1 {
   border: 1px solid #1a2236;
 }
 
+.Start-collaboration:hover {
+  background-color: #e5e5e5;
+  color: #1a2236;
+}
+
+.Start-collaboration:-moz-suppressed {
+  background-color: #e5e5e5;
+  color: #1a2236;
+}
+
 .illustration-header {
   height: 20vh;
   background: url(./icons/image_geometry_2.svg) no-repeat;
   background-size: cover;
   margin-top: 30px;
+}
+
+.start-container:focus {
+  background: #e5e5e5;
 }
 
 .project-section-container {
@@ -159,6 +173,16 @@ h2 {
   justify-content: space-around;
 }
 
+.project-button:hover {
+  background-color: #e5e5e5;
+  color: #1a2236;
+}
+
+.project-button:-moz-suppressed {
+  background-color: #e5e5e5;
+  color: #1a2236;
+}
+
 .about-container {
   display: flex;
   flex-direction: column;
@@ -189,6 +213,16 @@ h2 {
   text-align: center;
   padding: 14px;
   border: solid 1px;
+}
+
+.rectangle_19:hover {
+  background-color: #e5e5e5;
+  color: #1a2236;
+}
+
+.rectangle_19:-moz-suppressed {
+  background-color: #e5e5e5;
+  color: #1a2236;
 }
 
 .skills-lists {
