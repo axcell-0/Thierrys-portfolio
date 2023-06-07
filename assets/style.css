@@ -181,7 +181,7 @@ h2 {
 .project-button:-moz-suppressed {
   background-color: #fff;
   color: #1a2236;
-  border: 0vw;
+  border: 0;
 }
 
 .about-container {
