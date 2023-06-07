@@ -27,16 +27,13 @@ body {
 }
 
 .header {
-  background-image: url(assets/icons/image_geometry_1.svg);
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  font-size: 18px;
+  background: url(./icons/image_geometry_1.svg) no-repeat;
 }
 
 nav {
   display: flex;
-  margin-right: 20px;
+  justify-content: flex-end;
+  padding: 25px;
 }
 
 .nav-list {
@@ -395,9 +392,8 @@ input {
     list-style: none;
     color: #172b4d;
     display: flex;
-    justify-content: space-around;
-    align-items: center;
-    text-align: center;
+    gap: 1rem;
+
   }
 
   .menu-btn {
@@ -405,6 +401,44 @@ input {
   }
 
   .header {
+    background: none;
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid #dddfe6;
+  }
+
+  .home_page-desktop {
+    background-image: url(./desktop-img/image_dots.svg);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+  }
+
+  .start-container {
+    width: 254px;
+    height: 60px;
+    margin-bottom: 120px;
+  }
+
+  .intro_para {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: -0.01em;
+    width: 500px;
+    height: 84px;
+    margin-top: 10px;
+  }
+
+  .illustration-header {
     display: none;
+  }
+
+  .illustration-header-desktop {
+    display: block;
+    width: 50%;
+    margin-right: 0;
+    margin-left: 0;
+    flex: 1;
+    background-image: url(./desktop-img/first-backgroung.svg);
   }
 }
