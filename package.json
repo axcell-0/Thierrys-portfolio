@@ -1,8 +1,9 @@
 {
   "name": "thierrys-portfolio",
   "version": "1.0.0",
+  "module": "true",
   "description": "This is my personal portfolio where I display the various projects I have created. It enables me to showcase my skills and market myself to potential companies. The portfolio is built with HTML, CS…",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
