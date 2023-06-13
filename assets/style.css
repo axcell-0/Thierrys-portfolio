@@ -1,12 +1,12 @@
 :root {
-  --font-roboto: "Roboto", sans-serif;
-  --font-inter: "Poppins", sans-serif;
+  --font-roboto: 'Roboto', sans-serif;
+  --font-inter: 'Poppins', sans-serif;
   --nav-background: #1a2236;
   --main-background: #1c1a19;
   --font-white: #fff;
   --font-orange: #ff6b00;
-  --font-round: "Crete Round", serif;
-  --ff-headings: "Playfair Display", serif;
+  --font-round: 'Crete Round', serif;
+  --ff-headings: 'Playfair Display', serif;
 }
 
 *,
@@ -121,7 +121,7 @@ h1 {
 
 h2 {
   left: 16px;
-  font-family: "Playfair Display", sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 50px;
@@ -146,26 +146,18 @@ h2 {
 
 .project-name {
   align-items: center;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 26px;
   color: #fff;
 }
 
 .project-languages {
-  float: right;
+  display: flex;
   gap: 1rem;
-}
-.box {
-  float: left;
-  color: white;
-  margin: 10px;
-  background-color: #1c528a;
-  border-radius: 10px;
-  padding: 10px;
 }
 
 .language-css {
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 15px;
   line-height: 80%;
   background: #98dede;
@@ -205,7 +197,7 @@ h2 {
 }
 
 .about {
-  font-family: "Playfair Display", sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-style: normal;
   font-size: 50px;
   line-height: 100%;
@@ -293,7 +285,7 @@ h2 {
 
 h4 {
   left: 16px;
-  font-family: "Playfair Display", sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 50px;
@@ -303,7 +295,7 @@ h4 {
 
 .get-paragraph {
   left: 16px;
-  font-family: "Playfair Display", sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
@@ -347,7 +339,7 @@ input {
   color: #1a2236;
   height: 112px;
   margin-bottom: 20px;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 16px;
   padding-left: 1em;
   padding-top: 1em;
