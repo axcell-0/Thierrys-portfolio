@@ -311,7 +311,7 @@ h4 {
   margin: 15px 10px;
 }
 
-footer {
+/* footer {
   display: flex;
   flex-direction: column;
 }
@@ -415,4 +415,4 @@ input {
   .header {
     display: none;
   }
-}
+} */
