@@ -693,6 +693,8 @@ footer {
 
   .cta-desktops {
     margin-bottom: auto;
+    width: 254px;
+    height: 60px;
   }
 
   .footer {
