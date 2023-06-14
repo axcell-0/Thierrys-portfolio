@@ -449,8 +449,7 @@ footer {
     line-height: 21px;
     letter-spacing: -0.01em;
     color: #1a2236;
-    background: url(./desktop-background-img/img-dots.svg) bottom right
-      no-repeat;
+    background: url(./desktop-background-img/img-dots.svg) bottom right no-repeat;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -532,27 +531,23 @@ footer {
 
   .project-shape1 {
     grid-area: 2/2/5/4;
-    background: url(./desktop-background-img/background-d-2.svg) center bottom
-      no-repeat;
+    background: url(./desktop-background-img/background-d-2.svg) center bottom no-repeat;
     background-size: contain;
   }
 
   .project-shape2 {
     grid-area: 6/3/7/5;
-    background: url(./desktop-background-img/background-d-3.svg) center top
-      no-repeat;
+    background: url(./desktop-background-img/background-d-3.svg) center top no-repeat;
   }
 
   .project-shape3 {
     grid-area: 7/1/8/2;
-    background: url(./desktop-background-img/background-d-4.svg) top left
-      no-repeat;
+    background: url(./desktop-background-img/background-d-4.svg) top left no-repeat;
   }
 
   .project-shape4 {
     grid-area: 7/2/8/3;
-    background: url(./desktop-background-img/background-d-5.svg) top right
-      no-repeat;
+    background: url(./desktop-background-img/background-d-5.svg) top right no-repeat;
   }
 
   .proj-title h1 {
@@ -650,19 +645,16 @@ footer {
 
   .about-list-main2 .spacer {
     display: block;
-    background: url(./desktop-background-img/background-d-6.svg) bottom right
-      no-repeat;
+    background: url(./desktop-background-img/background-d-6.svg) bottom right no-repeat;
   }
 
   .contact-main {
     margin-top: 150px;
-    background: #f9f9fa url(./desktop-background-img/background-d-7.svg) top
-      left no-repeat;
+    background: #f9f9fa url(./desktop-background-img/background-d-7.svg) top left no-repeat;
   }
 
   .contact-main2 {
-    background: url(./desktop-background-img/background-d-8.svg) bottom right
-      no-repeat;
+    background: url(./desktop-background-img/background-d-8.svg) bottom right no-repeat;
   }
 
   .contact {
