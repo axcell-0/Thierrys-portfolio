@@ -56,7 +56,7 @@ This project is thierry's portfolio repository. No complex coding is required fo
 
 # LIVE DEMO 
 
-- [] coming soon
+- [Live demo](https://axcell-0.github.io/Thierrys-portfolio/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
