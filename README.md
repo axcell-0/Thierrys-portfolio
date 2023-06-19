@@ -111,7 +111,7 @@ To run tests, run the following command:
 
 You can deploy this project using:
 
-[]coming soon
+https://axcell-0.github.io/Thierrys-portfolio/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
